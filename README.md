@@ -1,2 +1,2 @@
 # Aura Assistant
-A voice-powered AI assistant for tasks, reminders, and smart productivity.
+A voice-powered AI assistant UI.
